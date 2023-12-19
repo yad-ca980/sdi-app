@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297788100971",
+    "project_id": "sdi-store",
+    "storage_bucket": "sdi-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297788100971:android:c1f86c8ecd0a02cf293c2e",
+        "android_client_info": {
+          "package_name": "store.sdiqro.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbqm5NNkjclro4S-3MdoMYOHIw7WUdN1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
